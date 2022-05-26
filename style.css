@@ -117,20 +117,20 @@ body {
 }
 
 .clock .hand.seconds {
-  width: 3px;
+  width: 2px;
   height: 40%;
 
   background-color: red;
 }
 
 .clock .hand.minutes {
-  width: 7px;
+  width: 5px;
   height: 35%;
   background-color: black;
 }
 
 .clock .hand.hours {
-  width: 10px;
+  width: 8px;
   height: 25%;
   background-color: black;
 }
