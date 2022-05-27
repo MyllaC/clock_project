@@ -9,6 +9,7 @@ Projeto para treinar as habilidades em JavaScript, CSS e HTML, proposto durante 
 ## 🚀 Tecnologias
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
+- JavaScript
 - HTML
 - CSS
 
